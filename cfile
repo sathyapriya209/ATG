@@ -1,0 +1,6 @@
+Main()
+{
+temp = a ;
+a= b;
+b= a; 
+}
